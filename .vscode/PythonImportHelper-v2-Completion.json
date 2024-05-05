@@ -1,0 +1,907 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "load_normal_chain",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_pdf_chat_chain",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_vectordb",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_vectordb",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings",
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "isExtraImport": true,
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "mic_recorder",
+        "importPath": "streamlit_mic_recorder",
+        "description": "streamlit_mic_recorder",
+        "isExtraImport": true,
+        "detail": "streamlit_mic_recorder",
+        "documentation": {}
+    },
+    {
+        "label": "get_timestamp",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_avatar",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "handle_image",
+        "importPath": "image_handler",
+        "description": "image_handler",
+        "isExtraImport": true,
+        "detail": "image_handler",
+        "documentation": {}
+    },
+    {
+        "label": "add_documents_to_db",
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "isExtraImport": true,
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "css",
+        "importPath": "html_templates",
+        "description": "html_templates",
+        "isExtraImport": true,
+        "detail": "html_templates",
+        "documentation": {}
+    },
+    {
+        "label": "load_last_k_text_messages",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_text_message",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_image_message",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_audio_message",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "load_messages",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_chat_history_ids",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "delete_chat_history",
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "isExtraImport": true,
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "memory_prompt_template",
+        "importPath": "prompt_templates",
+        "description": "prompt_templates",
+        "isExtraImport": true,
+        "detail": "prompt_templates",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_chat_prompt",
+        "importPath": "prompt_templates",
+        "description": "prompt_templates",
+        "isExtraImport": true,
+        "detail": "prompt_templates",
+        "documentation": {}
+    },
+    {
+        "label": "LLMChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains.retrieval_qa.base",
+        "description": "langchain.chains.retrieval_qa.base",
+        "isExtraImport": true,
+        "detail": "langchain.chains.retrieval_qa.base",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceInstructEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferWindowMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "CTransformers",
+        "importPath": "langchain_community.llms",
+        "description": "langchain_community.llms",
+        "isExtraImport": true,
+        "detail": "langchain_community.llms",
+        "documentation": {}
+    },
+    {
+        "label": "Ollama",
+        "importPath": "langchain_community.llms",
+        "description": "langchain_community.llms",
+        "isExtraImport": true,
+        "detail": "langchain_community.llms",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "itemgetter",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "chromadb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chromadb",
+        "description": "chromadb",
+        "detail": "chromadb",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.schema.document",
+        "description": "langchain.schema.document",
+        "isExtraImport": true,
+        "detail": "langchain.schema.document",
+        "documentation": {}
+    },
+    {
+        "label": "pypdfium2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pypdfium2",
+        "description": "pypdfium2",
+        "detail": "pypdfium2",
+        "documentation": {}
+    },
+    {
+        "label": "fitz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fitz",
+        "description": "fitz",
+        "detail": "fitz",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain.schema.messages",
+        "description": "langchain.schema.messages",
+        "isExtraImport": true,
+        "detail": "langchain.schema.messages",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "ask_openai",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def ask_openai(query):\n    headers = {\n        \"Authorization\": f\"Bearer {openai.api_key}\",\n        \"Content-Type\": \"application/json\",\n    }\n    try:\n        # Make a request to the OpenAI ChatCompletion API using the GPT-4 Turbo engine\n        response = openai.ChatCompletion.create(\n            model=\"gpt-4-turbo\",  # Specify the model\n            messages=[{\"role\": \"system\", \"content\": \"You are an AI trained to politely answer questions.\"},",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "load_chain",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def load_chain():\n    if st.session_state.pdf_chat:\n        print(\"loading pdf chat chain\")\n        return load_pdf_chat_chain()\n    return load_normal_chain()\ndef toggle_pdf_chat():\n    st.session_state.pdf_chat = True\n    clear_cache()\ndef get_session_key():\n    if st.session_state.session_key == \"new_session\":",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_pdf_chat",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def toggle_pdf_chat():\n    st.session_state.pdf_chat = True\n    clear_cache()\ndef get_session_key():\n    if st.session_state.session_key == \"new_session\":\n        st.session_state.new_session_key = get_timestamp()\n        return st.session_state.new_session_key\n    return st.session_state.session_key\ndef delete_chat_session_history():\n    delete_chat_history(st.session_state.session_key)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_session_key",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def get_session_key():\n    if st.session_state.session_key == \"new_session\":\n        st.session_state.new_session_key = get_timestamp()\n        return st.session_state.new_session_key\n    return st.session_state.session_key\ndef delete_chat_session_history():\n    delete_chat_history(st.session_state.session_key)\n    st.session_state.session_index_tracker = \"new_session\"\ndef clear_cache():\n    st.cache_resource.clear()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "delete_chat_session_history",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def delete_chat_session_history():\n    delete_chat_history(st.session_state.session_key)\n    st.session_state.session_index_tracker = \"new_session\"\ndef clear_cache():\n    st.cache_resource.clear()\ndef main():\n    st.title(\"Multimodal Local Chat App\")\n    st.write(css, unsafe_allow_html=True)\n    if \"db_conn\" not in st.session_state:\n        st.session_state.session_key = \"new_session\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "clear_cache",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def clear_cache():\n    st.cache_resource.clear()\ndef main():\n    st.title(\"Multimodal Local Chat App\")\n    st.write(css, unsafe_allow_html=True)\n    if \"db_conn\" not in st.session_state:\n        st.session_state.session_key = \"new_session\"\n        st.session_state.new_session_key = None\n        st.session_state.session_index_tracker = \"new_session\"\n        st.session_state.db_conn = sqlite3.connect(config[\"chat_sessions_database_path\"], check_same_thread=False)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def main():\n    st.title(\"Multimodal Local Chat App\")\n    st.write(css, unsafe_allow_html=True)\n    if \"db_conn\" not in st.session_state:\n        st.session_state.session_key = \"new_session\"\n        st.session_state.new_session_key = None\n        st.session_state.session_index_tracker = \"new_session\"\n        st.session_state.db_conn = sqlite3.connect(config[\"chat_sessions_database_path\"], check_same_thread=False)\n        st.session_state.audio_uploader_key = 0\n        st.session_state.pdf_uploader_key = 1",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "config = load_config()\n# Configure OpenAI API key\nopenai.api_key = 'openai-api-key'\ndef ask_openai(query):\n    headers = {\n        \"Authorization\": f\"Bearer {openai.api_key}\",\n        \"Content-Type\": \"application/json\",\n    }\n    try:\n        # Make a request to the OpenAI ChatCompletion API using the GPT-4 Turbo engine",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "openai.api_key = 'openai-api-key'\ndef ask_openai(query):\n    headers = {\n        \"Authorization\": f\"Bearer {openai.api_key}\",\n        \"Content-Type\": \"application/json\",\n    }\n    try:\n        # Make a request to the OpenAI ChatCompletion API using the GPT-4 Turbo engine\n        response = openai.ChatCompletion.create(\n            model=\"gpt-4-turbo\",  # Specify the model",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_connection",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def get_db_connection():\n    return st.session_state.db_conn\ndef get_db_cursor(db_connection):\n    return db_connection.cursor()\ndef get_db_connection_and_cursor():\n    conn = get_db_connection()\n    return conn, conn.cursor()\ndef close_db_connection():\n    if 'db_conn' in st.session_state and st.session_state.db_conn is not None:\n        st.session_state.db_conn.close()",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_cursor",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def get_db_cursor(db_connection):\n    return db_connection.cursor()\ndef get_db_connection_and_cursor():\n    conn = get_db_connection()\n    return conn, conn.cursor()\ndef close_db_connection():\n    if 'db_conn' in st.session_state and st.session_state.db_conn is not None:\n        st.session_state.db_conn.close()\n        st.session_state.db_conn = None\ndef save_text_message(chat_history_id, sender_type, text):",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_connection_and_cursor",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def get_db_connection_and_cursor():\n    conn = get_db_connection()\n    return conn, conn.cursor()\ndef close_db_connection():\n    if 'db_conn' in st.session_state and st.session_state.db_conn is not None:\n        st.session_state.db_conn.close()\n        st.session_state.db_conn = None\ndef save_text_message(chat_history_id, sender_type, text):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, text_content) VALUES (?, ?, ?, ?)',",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "close_db_connection",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def close_db_connection():\n    if 'db_conn' in st.session_state and st.session_state.db_conn is not None:\n        st.session_state.db_conn.close()\n        st.session_state.db_conn = None\ndef save_text_message(chat_history_id, sender_type, text):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, text_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'text', text))\n    conn.commit()\ndef save_image_message(chat_history_id, sender_type, image_bytes):",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_text_message",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def save_text_message(chat_history_id, sender_type, text):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, text_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'text', text))\n    conn.commit()\ndef save_image_message(chat_history_id, sender_type, image_bytes):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, blob_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'image', sqlite3.Binary(image_bytes)))\n    conn.commit()",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_image_message",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def save_image_message(chat_history_id, sender_type, image_bytes):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, blob_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'image', sqlite3.Binary(image_bytes)))\n    conn.commit()\ndef save_audio_message(chat_history_id, sender_type, audio_bytes):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, blob_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'audio', sqlite3.Binary(audio_bytes)))\n    conn.commit()",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "save_audio_message",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def save_audio_message(chat_history_id, sender_type, audio_bytes):\n    conn, cursor = get_db_connection_and_cursor()\n    cursor.execute('INSERT INTO messages (chat_history_id, sender_type, message_type, blob_content) VALUES (?, ?, ?, ?)',\n                   (chat_history_id, sender_type, 'audio', sqlite3.Binary(audio_bytes)))\n    conn.commit()\ndef load_messages(chat_history_id):\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"SELECT message_id, sender_type, message_type, text_content, blob_content FROM messages WHERE chat_history_id = ?\"\n    cursor.execute(query, (chat_history_id,))\n    messages = cursor.fetchall()",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "load_messages",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def load_messages(chat_history_id):\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"SELECT message_id, sender_type, message_type, text_content, blob_content FROM messages WHERE chat_history_id = ?\"\n    cursor.execute(query, (chat_history_id,))\n    messages = cursor.fetchall()\n    chat_history = []\n    for message in messages:\n        message_id, sender_type, message_type, text_content, blob_content = message\n        if message_type == 'text':\n            chat_history.append({'message_id': message_id, 'sender_type': sender_type, 'message_type': message_type, 'content': text_content})",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "load_last_k_text_messages",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def load_last_k_text_messages(chat_history_id, k):\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"\"\"\n    SELECT message_id, sender_type, message_type, text_content\n    FROM messages\n    WHERE chat_history_id = ? AND message_type = 'text'\n    ORDER BY message_id DESC\n    LIMIT ?\n    \"\"\"\n    cursor.execute(query, (chat_history_id, k))",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_chat_history_ids",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def get_all_chat_history_ids():\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"SELECT DISTINCT chat_history_id FROM messages ORDER BY chat_history_id ASC\"\n    cursor.execute(query)\n    chat_history_ids = cursor.fetchall()\n    chat_history_id_list = [item[0] for item in chat_history_ids]\n    return chat_history_id_list\ndef delete_chat_history(chat_history_id):\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"DELETE FROM messages WHERE chat_history_id = ?\"",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "delete_chat_history",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def delete_chat_history(chat_history_id):\n    conn, cursor = get_db_connection_and_cursor()\n    query = \"DELETE FROM messages WHERE chat_history_id = ?\"\n    cursor.execute(query, (chat_history_id,))\n    conn.commit()\n    print(f\"All entries with chat_history_id {chat_history_id} have been deleted.\")\ndef init_db():\n    db_path = config[\"chat_sessions_database_path\"]\n    conn = sqlite3.connect(db_path)\n    cursor = conn.cursor()",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "def init_db():\n    db_path = config[\"chat_sessions_database_path\"]\n    conn = sqlite3.connect(db_path)\n    cursor = conn.cursor()\n    create_messages_table = \"\"\"\n    CREATE TABLE IF NOT EXISTS messages (\n        message_id INTEGER PRIMARY KEY AUTOINCREMENT,\n        chat_history_id TEXT NOT NULL,\n        sender_type TEXT NOT NULL,\n        message_type TEXT NOT NULL,",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "database_operations",
+        "description": "database_operations",
+        "peekOfCode": "config = load_config()\ndef get_db_connection():\n    return st.session_state.db_conn\ndef get_db_cursor(db_connection):\n    return db_connection.cursor()\ndef get_db_connection_and_cursor():\n    conn = get_db_connection()\n    return conn, conn.cursor()\ndef close_db_connection():\n    if 'db_conn' in st.session_state and st.session_state.db_conn is not None:",
+        "detail": "database_operations",
+        "documentation": {}
+    },
+    {
+        "label": "convert_bytes_to_base64",
+        "kind": 2,
+        "importPath": "image_handler",
+        "description": "image_handler",
+        "peekOfCode": "def convert_bytes_to_base64(image_bytes):\n    encoded_string = base64.b64encode(image_bytes).decode(\"utf-8\")\n    return \"data:image/jpeg;base64,\" + encoded_string\ndef handle_image(image_bytes, user_input):\n    # Set the OpenAI API key correctly from the configuration\n    openai.api_key = openai.api_key  \n    # Convert the image to base64 to possibly use it within HTML or store it, but not sending to OpenAI\n    image_base64 = convert_bytes_to_base64(image_bytes)\n    # Since OpenAI API cannot directly process images, handle the user's text input about the image\n    try:",
+        "detail": "image_handler",
+        "documentation": {}
+    },
+    {
+        "label": "handle_image",
+        "kind": 2,
+        "importPath": "image_handler",
+        "description": "image_handler",
+        "peekOfCode": "def handle_image(image_bytes, user_input):\n    # Set the OpenAI API key correctly from the configuration\n    openai.api_key = openai.api_key  \n    # Convert the image to base64 to possibly use it within HTML or store it, but not sending to OpenAI\n    image_base64 = convert_bytes_to_base64(image_bytes)\n    # Since OpenAI API cannot directly process images, handle the user's text input about the image\n    try:\n        response = openai.ChatCompletion.create(\n            model=\"gpt-4-turbo\",\n            messages=[",
+        "detail": "image_handler",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "image_handler",
+        "description": "image_handler",
+        "peekOfCode": "config = load_config()\n# Configure OpenAI API key\nopenai.api_key = 'openai-api-key'\ndef convert_bytes_to_base64(image_bytes):\n    encoded_string = base64.b64encode(image_bytes).decode(\"utf-8\")\n    return \"data:image/jpeg;base64,\" + encoded_string\ndef handle_image(image_bytes, user_input):\n    # Set the OpenAI API key correctly from the configuration\n    openai.api_key = openai.api_key  \n    # Convert the image to base64 to possibly use it within HTML or store it, but not sending to OpenAI",
+        "detail": "image_handler",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "image_handler",
+        "description": "image_handler",
+        "peekOfCode": "openai.api_key = 'openai-api-key'\ndef convert_bytes_to_base64(image_bytes):\n    encoded_string = base64.b64encode(image_bytes).decode(\"utf-8\")\n    return \"data:image/jpeg;base64,\" + encoded_string\ndef handle_image(image_bytes, user_input):\n    # Set the OpenAI API key correctly from the configuration\n    openai.api_key = openai.api_key  \n    # Convert the image to base64 to possibly use it within HTML or store it, but not sending to OpenAI\n    image_base64 = convert_bytes_to_base64(image_bytes)\n    # Since OpenAI API cannot directly process images, handle the user's text input about the image",
+        "detail": "image_handler",
+        "documentation": {}
+    },
+    {
+        "label": "pdfChatChain",
+        "kind": 6,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "class pdfChatChain:\n    def __init__(self):\n        vector_db = load_vectordb(create_embeddings())\n        llm = create_llm()\n        #llm = load_ollama_model()\n        prompt = create_prompt_from_template(pdf_chat_prompt)\n        self.llm_chain = create_pdf_chat_runnable(llm, vector_db, prompt)\n    def run(self, user_input, chat_history):\n        print(\"Pdf chat chain is running...\")\n        return self.llm_chain.invoke(input={\"human_input\" : user_input, \"history\" : chat_history})",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "chatChain",
+        "kind": 6,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "class chatChain:\n    def __init__(self):\n        llm = create_llm()\n        #llm = load_ollama_model()\n        chat_prompt = create_prompt_from_template(memory_prompt_template)\n        self.llm_chain = create_llm_chain(llm, chat_prompt)\n    def run(self, user_input, chat_history):\n        return self.llm_chain.invoke(input={\"human_input\" : user_input, \"history\" : chat_history} ,stop=[\"Human:\"])[\"text\"]",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_ollama_model",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def load_ollama_model():\n    llm = Ollama(model=config[\"ollama_model\"])\n    return llm\ndef create_llm(model_path = config[\"ctransformers\"][\"model_path\"][\"large\"], model_type = config[\"ctransformers\"][\"model_type\"], model_config = config[\"ctransformers\"][\"model_config\"]):\n    llm = CTransformers(model=model_path, model_type=model_type, config=model_config)\n    return llm\ndef create_embeddings(embeddings_path = config[\"embeddings_path\"]):\n    return HuggingFaceInstructEmbeddings(model_name=embeddings_path)\ndef create_chat_memory(chat_history):\n    return ConversationBufferWindowMemory(memory_key=\"history\", chat_memory=chat_history, k=3)",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_llm",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_llm(model_path = config[\"ctransformers\"][\"model_path\"][\"large\"], model_type = config[\"ctransformers\"][\"model_type\"], model_config = config[\"ctransformers\"][\"model_config\"]):\n    llm = CTransformers(model=model_path, model_type=model_type, config=model_config)\n    return llm\ndef create_embeddings(embeddings_path = config[\"embeddings_path\"]):\n    return HuggingFaceInstructEmbeddings(model_name=embeddings_path)\ndef create_chat_memory(chat_history):\n    return ConversationBufferWindowMemory(memory_key=\"history\", chat_memory=chat_history, k=3)\ndef create_prompt_from_template(template):\n    return PromptTemplate.from_template(template)\ndef create_llm_chain(llm, chat_prompt):",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_embeddings",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_embeddings(embeddings_path = config[\"embeddings_path\"]):\n    return HuggingFaceInstructEmbeddings(model_name=embeddings_path)\ndef create_chat_memory(chat_history):\n    return ConversationBufferWindowMemory(memory_key=\"history\", chat_memory=chat_history, k=3)\ndef create_prompt_from_template(template):\n    return PromptTemplate.from_template(template)\ndef create_llm_chain(llm, chat_prompt):\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_normal_chain():\n    llm = create_llm()  ",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_chat_memory",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_chat_memory(chat_history):\n    return ConversationBufferWindowMemory(memory_key=\"history\", chat_memory=chat_history, k=3)\ndef create_prompt_from_template(template):\n    return PromptTemplate.from_template(template)\ndef create_llm_chain(llm, chat_prompt):\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_normal_chain():\n    llm = create_llm()  \n    chat_prompt = create_prompt_from_template(memory_prompt_template)\n    return LLMChain(llm=llm, prompt=chat_prompt)",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_prompt_from_template",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_prompt_from_template(template):\n    return PromptTemplate.from_template(template)\ndef create_llm_chain(llm, chat_prompt):\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_normal_chain():\n    llm = create_llm()  \n    chat_prompt = create_prompt_from_template(memory_prompt_template)\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_vectordb(embeddings):\n    persistent_client = chromadb.PersistentClient(config[\"chromadb\"][\"chromadb_path\"])",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_llm_chain",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_llm_chain(llm, chat_prompt):\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_normal_chain():\n    llm = create_llm()  \n    chat_prompt = create_prompt_from_template(memory_prompt_template)\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_vectordb(embeddings):\n    persistent_client = chromadb.PersistentClient(config[\"chromadb\"][\"chromadb_path\"])\n    langchain_chroma = Chroma(\n        client=persistent_client,",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_normal_chain",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def load_normal_chain():\n    llm = create_llm()  \n    chat_prompt = create_prompt_from_template(memory_prompt_template)\n    return LLMChain(llm=llm, prompt=chat_prompt)\ndef load_vectordb(embeddings):\n    persistent_client = chromadb.PersistentClient(config[\"chromadb\"][\"chromadb_path\"])\n    langchain_chroma = Chroma(\n        client=persistent_client,\n        collection_name=config[\"chromadb\"][\"collection_name\"],\n        embedding_function=embeddings,",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_vectordb",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def load_vectordb(embeddings):\n    persistent_client = chromadb.PersistentClient(config[\"chromadb\"][\"chromadb_path\"])\n    langchain_chroma = Chroma(\n        client=persistent_client,\n        collection_name=config[\"chromadb\"][\"collection_name\"],\n        embedding_function=embeddings,\n    )\n    return langchain_chroma\ndef load_pdf_chat_chain():\n    return pdfChatChain()",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_pdf_chat_chain",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def load_pdf_chat_chain():\n    return pdfChatChain()\ndef load_retrieval_chain(llm, vector_db):\n    return RetrievalQA.from_llm(llm=llm, retriever=vector_db.as_retriever(search_kwargs={\"k\": config[\"chat_config\"][\"number_of_retrieved_documents\"]}), verbose=True)\ndef create_pdf_chat_runnable(llm, vector_db, prompt):\n    runnable = (\n        {\n        \"context\": itemgetter(\"human_input\") | vector_db.as_retriever(search_kwargs={\"k\": config[\"chat_config\"][\"number_of_retrieved_documents\"]}),\n        \"human_input\": itemgetter(\"human_input\"),\n        \"history\" : itemgetter(\"history\"),",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_retrieval_chain",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def load_retrieval_chain(llm, vector_db):\n    return RetrievalQA.from_llm(llm=llm, retriever=vector_db.as_retriever(search_kwargs={\"k\": config[\"chat_config\"][\"number_of_retrieved_documents\"]}), verbose=True)\ndef create_pdf_chat_runnable(llm, vector_db, prompt):\n    runnable = (\n        {\n        \"context\": itemgetter(\"human_input\") | vector_db.as_retriever(search_kwargs={\"k\": config[\"chat_config\"][\"number_of_retrieved_documents\"]}),\n        \"human_input\": itemgetter(\"human_input\"),\n        \"history\" : itemgetter(\"history\"),\n        }\n    | prompt | llm.bind(stop=[\"Human:\"]) ",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "create_pdf_chat_runnable",
+        "kind": 2,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "def create_pdf_chat_runnable(llm, vector_db, prompt):\n    runnable = (\n        {\n        \"context\": itemgetter(\"human_input\") | vector_db.as_retriever(search_kwargs={\"k\": config[\"chat_config\"][\"number_of_retrieved_documents\"]}),\n        \"human_input\": itemgetter(\"human_input\"),\n        \"history\" : itemgetter(\"history\"),\n        }\n    | prompt | llm.bind(stop=[\"Human:\"]) \n    )\n    return runnable",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "llm_chains",
+        "description": "llm_chains",
+        "peekOfCode": "config = load_config()\ndef load_ollama_model():\n    llm = Ollama(model=config[\"ollama_model\"])\n    return llm\ndef create_llm(model_path = config[\"ctransformers\"][\"model_path\"][\"large\"], model_type = config[\"ctransformers\"][\"model_type\"], model_config = config[\"ctransformers\"][\"model_config\"]):\n    llm = CTransformers(model=model_path, model_type=model_type, config=model_config)\n    return llm\ndef create_embeddings(embeddings_path = config[\"embeddings_path\"]):\n    return HuggingFaceInstructEmbeddings(model_name=embeddings_path)\ndef create_chat_memory(chat_history):",
+        "detail": "llm_chains",
+        "documentation": {}
+    },
+    {
+        "label": "get_pdf_texts",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def get_pdf_texts(pdfs_bytes_list):\n    return [extract_text_from_pdf(pdf_bytes.getvalue()) for pdf_bytes in pdfs_bytes_list]\ndef extract_text_from_pdf(pdf_bytes):\n    # Open the PDF with PyMuPDF\n    pdf_file = fitz.open(stream=pdf_bytes, filetype=\"pdf\")\n    texts = []\n    for page in pdf_file:\n        texts.append(page.get_text())\n    pdf_file.close()\n    return \"\\n\".join(texts)",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_pdf",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def extract_text_from_pdf(pdf_bytes):\n    # Open the PDF with PyMuPDF\n    pdf_file = fitz.open(stream=pdf_bytes, filetype=\"pdf\")\n    texts = []\n    for page in pdf_file:\n        texts.append(page.get_text())\n    pdf_file.close()\n    return \"\\n\".join(texts)\ndef get_text_chunks(text):\n    splitter = RecursiveCharacterTextSplitter(chunk_size=config[\"pdf_text_splitter\"][\"chunk_size\"], ",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_chunks",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def get_text_chunks(text):\n    splitter = RecursiveCharacterTextSplitter(chunk_size=config[\"pdf_text_splitter\"][\"chunk_size\"], \n                                              chunk_overlap=config[\"pdf_text_splitter\"][\"overlap\"],\n                                                separators=config[\"pdf_text_splitter\"][\"separators\"])\n    return splitter.split_text(text)\ndef get_document_chunks(text_list):\n    documents = []\n    for text in text_list:\n        for chunk in get_text_chunks(text):\n            documents.append(Document(page_content = chunk))",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_chunks",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def get_document_chunks(text_list):\n    documents = []\n    for text in text_list:\n        for chunk in get_text_chunks(text):\n            documents.append(Document(page_content = chunk))\n    return documents\ndef process_text_with_openai(text):\n    headers = {\n        \"Authorization\": f\"Bearer {openai.api_key}\",\n        \"Content-Type\": \"application/json\",",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "process_text_with_openai",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def process_text_with_openai(text):\n    headers = {\n        \"Authorization\": f\"Bearer {openai.api_key}\",\n        \"Content-Type\": \"application/json\",\n    }\n    try:\n        response = openai.Completion.create(\n            engine=\"text-davinci-003\",  # Use an accessible model\n            prompt=\"Summarize the following text:\\n\" + text,\n            max_tokens=2000,",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "add_documents_to_db",
+        "kind": 2,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "def add_documents_to_db(uploaded_files):\n    # Make sure uploaded_files is a list of UploadedFile objects\n    summaries = []\n    for uploaded_file in uploaded_files:\n        # Read the PDF file into bytes\n        pdf_bytes = uploaded_file.getvalue()\n        # Extract text from the PDF\n        extracted_text = extract_text_from_pdf(pdf_bytes)\n        # Summarize the extracted text using OpenAI's API\n        summary = process_text_with_openai(extracted_text)",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "config = load_config()\n# Configure OpenAI API key\nopenai.api_key = 'openai-api-key'\ndef get_pdf_texts(pdfs_bytes_list):\n    return [extract_text_from_pdf(pdf_bytes.getvalue()) for pdf_bytes in pdfs_bytes_list]\ndef extract_text_from_pdf(pdf_bytes):\n    # Open the PDF with PyMuPDF\n    pdf_file = fitz.open(stream=pdf_bytes, filetype=\"pdf\")\n    texts = []\n    for page in pdf_file:",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "pdf_handler",
+        "description": "pdf_handler",
+        "peekOfCode": "openai.api_key = 'openai-api-key'\ndef get_pdf_texts(pdfs_bytes_list):\n    return [extract_text_from_pdf(pdf_bytes.getvalue()) for pdf_bytes in pdfs_bytes_list]\ndef extract_text_from_pdf(pdf_bytes):\n    # Open the PDF with PyMuPDF\n    pdf_file = fitz.open(stream=pdf_bytes, filetype=\"pdf\")\n    texts = []\n    for page in pdf_file:\n        texts.append(page.get_text())\n    pdf_file.close()",
+        "detail": "pdf_handler",
+        "documentation": {}
+    },
+    {
+        "label": "memory_prompt_template",
+        "kind": 5,
+        "importPath": "prompt_templates",
+        "description": "prompt_templates",
+        "peekOfCode": "memory_prompt_template = \"\"\"<s>[INST] You are an AI chatbot having a conversation with a human. Answer his questions.[/INST]\n    Previous conversation: {history}\n    Human: {human_input}\n    AI:\"\"\"\npdf_chat_prompt = \"\"\"<s>[INST] Answer the user question based on the given context. Also consider the chat history.[/INST]\nChat history: {history}\nContext: {context}\nQuestion: {human_input}\nAnswer:\"\"\"",
+        "detail": "prompt_templates",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_chat_prompt",
+        "kind": 5,
+        "importPath": "prompt_templates",
+        "description": "prompt_templates",
+        "peekOfCode": "pdf_chat_prompt = \"\"\"<s>[INST] Answer the user question based on the given context. Also consider the chat history.[/INST]\nChat history: {history}\nContext: {context}\nQuestion: {human_input}\nAnswer:\"\"\"",
+        "detail": "prompt_templates",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def load_config():\n    with open(\"config.yaml\", \"r\") as f:\n        return yaml.safe_load(f)\ndef save_chat_history_json(chat_history, file_path):\n    with open(file_path, \"w\") as f:\n        json_data = [message.dict() for message in chat_history]\n        json.dump(json_data, f)\ndef load_chat_history_json(file_path):\n    with open(file_path, \"r\") as f:\n        json_data = json.load(f)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_chat_history_json",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def save_chat_history_json(chat_history, file_path):\n    with open(file_path, \"w\") as f:\n        json_data = [message.dict() for message in chat_history]\n        json.dump(json_data, f)\ndef load_chat_history_json(file_path):\n    with open(file_path, \"r\") as f:\n        json_data = json.load(f)\n        messages = [HumanMessage(**message) if message[\"type\"] == \"human\" else AIMessage(**message) for message in json_data]\n        return messages\ndef get_timestamp():",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_chat_history_json",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def load_chat_history_json(file_path):\n    with open(file_path, \"r\") as f:\n        json_data = json.load(f)\n        messages = [HumanMessage(**message) if message[\"type\"] == \"human\" else AIMessage(**message) for message in json_data]\n        return messages\ndef get_timestamp():\n    return datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\ndef get_avatar(sender_type):\n    if sender_type == \"human\":\n        return \"chat_icons/trang_image.jpg\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_timestamp",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_timestamp():\n    return datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\ndef get_avatar(sender_type):\n    if sender_type == \"human\":\n        return \"chat_icons/trang_image.jpg\"\n    else:\n       return \"chat_icons/bot_image.png\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_avatar",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_avatar(sender_type):\n    if sender_type == \"human\":\n        return \"chat_icons/trang_image.jpg\"\n    else:\n       return \"chat_icons/bot_image.png\"",
+        "detail": "utils",
+        "documentation": {}
+    }
+]

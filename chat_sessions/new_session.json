@@ -1,0 +1,33 @@
+[
+    {
+        "additional_kwargs": {},
+        "content": "Hello who are you?",
+        "example": false,
+        "type": "human"
+    },
+    {
+        "additional_kwargs": {},
+        "content": "I am an AI language model, here to assist you with any information or help you need. How can I be of service today?",
+        "example": false,
+        "type": "ai"
+    },
+    {
+        "additional_kwargs": {},
+        "content": "What was my last question?",
+        "example": false,
+        "type": "human"
+    },
+    {
+        "additional_kwargs": {},
+        "content": "Your last question was 'What was my last question?'",
+        "example": false,
+        "type": "ai"
+    },
+    {
+        "additional_kwargs": {},
+        "content": "Test",
+        "example": false,
+        "type": "human"
+    }
+]
+
